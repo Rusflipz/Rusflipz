@@ -32,4 +32,5 @@
 <img src="https://img.icons8.com/color/48/000000/sql.png"/>
 <img src="https://img.icons8.com/color/48/000000/docker.png"/></p>
 
-- Контакты: <a href="Rusflipz@yandex.ru">Rusflipz@yandex.ru</a>
+- Почта: <a href="Rusflipz@yandex.ru">Rusflipz@yandex.ru</a>
+- Телеграмм: <a href="https://t.me/Rusflipz">@Rusflipz</a>
